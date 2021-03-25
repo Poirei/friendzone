@@ -1,0 +1,15 @@
+.info-card-container {
+  height: 100vh;
+  padding: 4rem;
+  background-image: linear-gradient(
+    to top right,
+    rgb(231, 160, 160),
+    rgb(243, 113, 113)
+  );
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
